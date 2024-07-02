@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	 <Properties>
+    <Property name="filename">./logs</Property>
+  </Properties>
+	<Appenders>
+		<RollingFile name="file" 
+		fileName="${filename}/MYSERVER-${date:yyyy-MM-dd}.log"
+			filePattern="${filename}/MYSERVER-%d{HH-mm-ss-SSS}.log">
+			<PatternLayout>
+				<pattern>%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</pattern>
+			</PatternLayout>
+			<SizeBasedTriggeringPolicy size="5 KB" />
+
+
+
+
+			
+          
+ <DefaultRolloverStrategy max="2">
+                <Delete basePath="./logs" maxDepth="2">
+                    <IfFileName glob="*">
+                        <!-- Deletes log files that match any of the conditions below. -->
+                        <IfAny>
+                            <IfAccumulatedFileCount exceeds="2" />
+                            
+                            
+                        </IfAny>
+                    </IfFileName>
+                </Delete>
+            </DefaultRolloverStrategy>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</RollingFile>
+		<Console name="Abc" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Root level="trace">
+			
+			<AppenderRef ref="file" />
+		</Root>
+	</Loggers>
+</Configuration>

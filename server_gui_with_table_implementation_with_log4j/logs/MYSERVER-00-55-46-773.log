@@ -1,0 +1,71 @@
+00:55:35.074 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - connection button clicked
+00:55:35.081 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - ServerRunnable constructor calld
+00:55:35.081 [Thread-0] INFO  com.eGen.model_gui_Server2 - new thread run
+00:55:40.380 [Thread-0] INFO  com.eGen.model_gui_Server2 - socket accepted
+00:55:40.382 [Thread-0] INFO  com.eGen.model_gui_Server2 - ENQ except:
+00:55:40.421 [Thread-0] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:40.421 [Thread-0] INFO  com.eGen.model_gui_Server2 - LF except:1H||||ABX|||||||P|E1394-97|2003111815484059
+
+00:55:40.422 [Thread-0] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:40.423 [Thread-0] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:40.425 [Thread-0] INFO  com.eGen.model_gui_Server2 - LF except:2P|1||PID12345||LASTNAME^FIRSTNAME||19641223|M|||||Prescriptor||||||||||||LocationD6
+
+00:55:40.425 [Thread-0] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:40.426 [Thread-0] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:40.426 [Thread-0] INFO  com.eGen.model_gui_Server2 - LF except:3C|1|I|Patient Comment|B8
+
+00:55:40.427 [Thread-0] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:40.427 [Thread-0] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:40.428 [Thread-0] INFO  com.eGen.model_gui_Server2 - LF except:4O|1|2312015||^^^13\^^^29|R|20031117||||N||||125
+
+00:55:40.428 [Thread-0] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:40.429 [Thread-0] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:40.429 [Thread-0] INFO  com.eGen.model_gui_Server2 - LF except:5C|1|I|Order Comment|E1
+
+00:55:40.430 [Thread-0] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:40.431 [Thread-0] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:40.431 [Thread-0] INFO  com.eGen.model_gui_Server2 - LF except:6L|1|N09
+
+00:55:40.431 [Thread-0] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:40.432 [Thread-0] INFO  com.eGen.model_gui_Server2 - EOT except:
+00:55:42.196 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - disconnect button clicked
+00:55:42.197 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - Dis closed
+00:55:42.197 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - DOS closed
+00:55:42.198 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - SOCKET closed
+00:55:42.198 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - SERVERSOCKET closed
+00:55:42.224 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - check the server is stop or notfalse
+00:55:43.180 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - connection button clicked
+00:55:43.180 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - ServerRunnable constructor calld
+00:55:43.180 [Thread-1] INFO  com.eGen.model_gui_Server2 - new thread run
+00:55:45.532 [Thread-1] INFO  com.eGen.model_gui_Server2 - socket accepted
+00:55:45.533 [Thread-1] INFO  com.eGen.model_gui_Server2 - ENQ except:
+00:55:45.571 [Thread-1] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:45.572 [Thread-1] INFO  com.eGen.model_gui_Server2 - LF except:1H||||ABX|||||||P|E1394-97|2003111815484059
+
+00:55:45.572 [Thread-1] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:45.573 [Thread-1] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:45.574 [Thread-1] INFO  com.eGen.model_gui_Server2 - LF except:2P|1||PID12345||LASTNAME^FIRSTNAME||19641223|M|||||Prescriptor||||||||||||LocationD6
+
+00:55:45.575 [Thread-1] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:45.576 [Thread-1] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:45.577 [Thread-1] INFO  com.eGen.model_gui_Server2 - LF except:3C|1|I|Patient Comment|B8
+
+00:55:45.577 [Thread-1] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:45.578 [Thread-1] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:45.579 [Thread-1] INFO  com.eGen.model_gui_Server2 - LF except:4O|1|2312015||^^^13\^^^29|R|20031117||||N||||125
+
+00:55:45.579 [Thread-1] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:45.580 [Thread-1] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:45.581 [Thread-1] INFO  com.eGen.model_gui_Server2 - LF except:5C|1|I|Order Comment|E1
+
+00:55:45.581 [Thread-1] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:45.582 [Thread-1] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:45.582 [Thread-1] INFO  com.eGen.model_gui_Server2 - LF except:6L|1|N09
+
+00:55:45.583 [Thread-1] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:45.584 [Thread-1] INFO  com.eGen.model_gui_Server2 - EOT except:
+00:55:46.752 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - disconnect button clicked
+00:55:46.752 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - Dis closed
+00:55:46.753 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - DOS closed
+00:55:46.753 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - SOCKET closed
+00:55:46.753 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - SERVERSOCKET closed

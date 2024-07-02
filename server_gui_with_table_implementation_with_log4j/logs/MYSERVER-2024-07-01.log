@@ -1,0 +1,31 @@
+00:55:46.772 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - check the server is stop or notfalse
+00:55:47.536 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - connection button clicked
+00:55:47.537 [AWT-EventQueue-0] INFO  com.eGen.model_gui_Server2 - ServerRunnable constructor calld
+00:55:47.537 [Thread-2] INFO  com.eGen.model_gui_Server2 - new thread run
+00:55:49.720 [Thread-2] INFO  com.eGen.model_gui_Server2 - socket accepted
+00:55:49.721 [Thread-2] INFO  com.eGen.model_gui_Server2 - ENQ except:
+00:55:49.754 [Thread-2] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:49.754 [Thread-2] INFO  com.eGen.model_gui_Server2 - LF except:1H||||ABX|||||||P|E1394-97|2003111815484059
+
+00:55:49.756 [Thread-2] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:49.757 [Thread-2] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:49.758 [Thread-2] INFO  com.eGen.model_gui_Server2 - LF except:2P|1||PID12345||LASTNAME^FIRSTNAME||19641223|M|||||Prescriptor||||||||||||LocationD6
+
+00:55:49.758 [Thread-2] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:49.759 [Thread-2] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:49.759 [Thread-2] INFO  com.eGen.model_gui_Server2 - LF except:3C|1|I|Patient Comment|B8
+
+00:55:49.759 [Thread-2] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:49.762 [Thread-2] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:49.762 [Thread-2] INFO  com.eGen.model_gui_Server2 - LF except:4O|1|2312015||^^^13\^^^29|R|20031117||||N||||125
+
+00:55:49.762 [Thread-2] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:49.763 [Thread-2] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:49.764 [Thread-2] INFO  com.eGen.model_gui_Server2 - LF except:5C|1|I|Order Comment|E1
+
+00:55:49.765 [Thread-2] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:49.766 [Thread-2] INFO  com.eGen.model_gui_Server2 - STX except:
+00:55:49.766 [Thread-2] INFO  com.eGen.model_gui_Server2 - LF except:6L|1|N09
+
+00:55:49.766 [Thread-2] INFO  com.eGen.model_gui_Server2 - data added to table 
+00:55:49.767 [Thread-2] INFO  com.eGen.model_gui_Server2 - EOT except:
